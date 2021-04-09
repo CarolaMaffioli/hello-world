@@ -1,5 +1,5 @@
 # hello-world
-First repository
+
 Hi there!
 
 I'm Carola, I live in Italy and I'm trying learning something new - something that might actually be useful, for a change! hahaha
